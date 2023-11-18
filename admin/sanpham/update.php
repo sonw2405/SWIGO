@@ -20,7 +20,7 @@
         <div class="h1">
             <h1>UPDATE SẢN PHẨM</h1>
         </div>
-        <form action="index.php?act=updatesp" method="POST">
+        <form action="index.php?act=updatesp" method="POST" enctype="multipart/form-data">
             <input type="hidden" name="id" value="<?= $id ?>">
             <div class="form-group1">
                 <label for="maloai">Mã loại</label>

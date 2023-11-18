@@ -33,7 +33,7 @@
                         <span class="icon">
                             <i class='bx bx-home'></i>
                         </span>
-                        <span class="title">Home</span>
+                        <span class="title">Tang chủ</span>
                     </a>
                 </li>
 
@@ -42,7 +42,7 @@
                         <span class="icon">
                             <i class='bx bxs-book-open'></i>
                         </span>
-                        <span class="title">Categoty</span>
+                        <span class="title">Danh mục</span>
                     </a>
                 </li>
 
@@ -51,7 +51,7 @@
                         <span class="icon">
                             <i class='bx bxl-product-hunt'></i>
                         </span>
-                        <span class="title">Product</span>
+                        <span class="title">Sản phẩm</span>
                     </a>
                 </li>
 
@@ -60,7 +60,7 @@
                         <span class="icon">
                             <i class='bx bxs-user-account'></i>
                         </span>
-                        <span class="title">Account</span>
+                        <span class="title">Tài khoản</span>
                     </a>
                 </li>
 
@@ -78,7 +78,7 @@
                         <span class="icon">
                             <i class='bx bx-comment'></i>
                         </span>
-                        <span class="title">Comment</span>
+                        <span class="title">Bình luận</span>
                     </a>
                 </li>
 
@@ -87,7 +87,7 @@
                         <span class="icon">
                             <i class='bx bx-bar-chart-square'></i>
                         </span>
-                        <span class="title">Statistical</span>
+                        <span class="title">Thống kê</span>
                     </a>
                 </li>
 
@@ -96,7 +96,7 @@
                         <span class="icon">
                             <ion-icon name="settings-outline"></ion-icon>
                         </span>
-                        <span class="title">Settings</span>
+                        <span class="title">Cài đặt</span>
                     </a>
                 </li>
 
@@ -105,7 +105,7 @@
                         <span class="icon">
                             <ion-icon name="log-out-outline"></ion-icon>
                         </span>
-                        <span class="title">Sign Out</span>
+                        <span class="title">Đăng xuất</span>
                     </a>
                 </li>
             </ul>

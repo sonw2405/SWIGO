@@ -2,16 +2,17 @@
     <?php
     include("danhmuc/title.php")
     ?>
+    
     <div class="con1">
         <div class="h1">
             <h1>THÊM SẢN PHẨM</h1>
         </div>
-        <form action="index.php?act=addsp" method="POST">
+        <form action="index.php?act=addsp" method="POST" enctype="multipart/form-data">
             <div class="form-group1">
                 <label for="maloai">Mã loại</label>
                 <input type="text" id="maloai" name="maloai" placeholder="Nhập vào mã loại">
             </div>
-            
+
             <div class="form-group1">
                 <label for="tensp">Tên sản phẩm</label>
                 <input type="text" id="tensp" name="tensp" placeholder="Nhập vào tên sản phẩm">
