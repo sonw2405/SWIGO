@@ -19,9 +19,9 @@ function loadAll_sanpham_home()
     return $listsp;
 }
 
-function loadAll_sanpham_top10()
+function loadAll_sanpham_top4()
 {
-    $sql = "SELECT * FROM sanpham WHERE 1 ORDER BY luotxem DESC LIMIT 0,10";
+    $sql = "SELECT * FROM sanpham WHERE 1 ORDER BY luotxem DESC LIMIT 0,4";
     $listsp = pdo_query($sql);
     return $listsp;
 }

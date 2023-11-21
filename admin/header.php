@@ -20,7 +20,7 @@
         <div class="navigation">
             <ul>
                 <li>
-                    <a href="">
+                    <a href="index.php">
                         <span class="icon">
                             <i class='bx bxs-user-circle'></i>
                         </span>
@@ -33,7 +33,7 @@
                         <span class="icon">
                             <i class='bx bx-home'></i>
                         </span>
-                        <span class="title">Tang chủ</span>
+                        <span class="title">Trang chủ</span>
                     </a>
                 </li>
 
@@ -56,7 +56,7 @@
                 </li>
 
                 <li>
-                    <a href="">
+                    <a href="index.php?act=dskh">
                         <span class="icon">
                             <i class='bx bxs-user-account'></i>
                         </span>
@@ -64,17 +64,17 @@
                     </a>
                 </li>
 
-                <li>
+                <!-- <li>
                     <a href="">
                         <span class="icon">
                             <i class='bx bx-envelope'></i>
                         </span>
                         <span class="title">Mail</span>
                     </a>
-                </li>
+                </li> -->
 
                 <li>
-                    <a href="">
+                    <a href="index.php?act=dsbl">
                         <span class="icon">
                             <i class='bx bx-comment'></i>
                         </span>
@@ -83,7 +83,7 @@
                 </li>
 
                 <li>
-                    <a href="">
+                    <a href="index.php?act=thongke">
                         <span class="icon">
                             <i class='bx bx-bar-chart-square'></i>
                         </span>
@@ -101,7 +101,7 @@
                 </li>
 
                 <li>
-                    <a href="login.php">
+                    <a href="logout.php">
                         <span class="icon">
                             <ion-icon name="log-out-outline"></ion-icon>
                         </span>

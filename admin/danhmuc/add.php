@@ -15,12 +15,13 @@
                 <label for="name">Tên danh mục</label>
                 <input type="text" id="tenloai" name="tenloai" placeholder="Nhập vào tên">
             </div>
+
             <div class="form-group2">
                 <input type="submit" name="themmoi" value="Thêm mới">
                 <!-- <input type="submit" value="Nhập lại"> -->
                 <a href="index.php?act=listdm"><input type="button" value="Danh sách"></a>
             </div>
-            <div class="thongbao">
+            <div class="thongbaodm">
             <?php
             if (isset($thongbao) && ($thongbao != ''))
                 echo $thongbao;

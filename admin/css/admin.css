@@ -108,9 +108,7 @@ font-family: "Ubuntu", sans-serif;
     input[type="checkbox"]{
       width: 20px;
     }
-    .thongbao{
-      color: red;
-    }
+    
     
     /* Định dạng phần container */
     .file-input-container {

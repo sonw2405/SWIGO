@@ -13,13 +13,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="author" content="DexignZone">
 	<meta name="robots" content="">
-	<meta name="keywords"
-		content="restaurant, restaurant website templates, restaurant template, food, restro, hotel, bootstrap 5, bootstrap, html, frontend, swigo, responsive template, shop, cart, menu, taste, blog, service, cook, customers, website, hungry, shop cart, fast food, table booking, website templates for restaurants, food website templates">
-	<meta name="description"
-		content="Boost your food business with Swigo's restaurant website templates. Our professionally designed templates cater specifically to the needs of restaurants, offering visually stunning and functional designs. Choose from a variety of food website templates that are perfect for showcasing your menu, promoting your services, and attracting hungry customers. Partner with DexignZone to create an impressive online presence for your restaurant. Start driving more traffic and growing your business today.">
+	<meta name="keywords" content="restaurant, restaurant website templates, restaurant template, food, restro, hotel, bootstrap 5, bootstrap, html, frontend, swigo, responsive template, shop, cart, menu, taste, blog, service, cook, customers, website, hungry, shop cart, fast food, table booking, website templates for restaurants, food website templates">
+	<meta name="description" content="Boost your food business with Swigo's restaurant website templates. Our professionally designed templates cater specifically to the needs of restaurants, offering visually stunning and functional designs. Choose from a variety of food website templates that are perfect for showcasing your menu, promoting your services, and attracting hungry customers. Partner with DexignZone to create an impressive online presence for your restaurant. Start driving more traffic and growing your business today.">
 	<meta property="og:title" content="Swigo - Empowering Your Restaurant Website Templates | DexignZone">
-	<meta property="og:description"
-		content="Boost your food business with Swigo's restaurant website templates. Our professionally designed templates cater specifically to the needs of restaurants, offering visually stunning and functional designs. Choose from a variety of food website templates that are perfect for showcasing your menu, promoting your services, and attracting hungry customers. Partner with DexignZone to create an impressive online presence for your restaurant. Start driving more traffic and growing your business today.">
+	<meta property="og:description" content="Boost your food business with Swigo's restaurant website templates. Our professionally designed templates cater specifically to the needs of restaurants, offering visually stunning and functional designs. Choose from a variety of food website templates that are perfect for showcasing your menu, promoting your services, and attracting hungry customers. Partner with DexignZone to create an impressive online presence for your restaurant. Start driving more traffic and growing your business today.">
 	<meta property="og:image" content="social-home3.png">
 	<meta name="format-detection" content="telephone=no">
 
@@ -44,9 +41,7 @@
 	<!-- Google Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-	<link
-		href="https://fonts.googleapis.com/css2?family=Lobster&amp;family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&amp;family=Poppins:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Lobster&amp;family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&amp;family=Poppins:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
 </head>
 
@@ -75,21 +70,18 @@
 						</div>
 
 						<!-- Nav Toggle Button -->
-						<button class="navbar-toggler collapsed navicon justify-content-end" type="button"
-							data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-							aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 							<span></span>
 							<span></span>
 							<span></span>
 						</button>
 
-						<!-- EXTRA NAV -->
+						<!-- EXTRA NAV giỏ hàng --> 
 						<div class="extra-nav">
 							<div class="extra-cell">
 								<ul>
 									<li>
-										<a class="btn btn-white btn-square btn-shadow" data-bs-toggle="offcanvas"
-											href="#offcanvasLogin" role="button" aria-controls="offcanvasLogin">
+										<a class="btn btn-white btn-square btn-shadow" data-bs-toggle="offcanvas" href="#offcanvasLogin" role="button" aria-controls="offcanvasLogin">
 											<i class="flaticon-user"></i>
 										</a>
 									</li>
@@ -103,13 +95,11 @@
 												<div class="media">
 													<div class="media-left">
 														<a href="product-detail.html">
-															<img alt="/" class="media-object"
-																src="assets/images/shop/pic2.jpg">
+															<img alt="/" class="media-object" src="assets/images/shop/pic2.jpg">
 														</a>
 													</div>
 													<div class="media-body">
-														<h6 class="dz-title"><a href="product-detail.html"
-																class="media-heading">Double Burger</a></h6>
+														<h6 class="dz-title"><a href="product-detail.html" class="media-heading">Double Burger</a></h6>
 														<span class="dz-price">$28.00</span>
 														<span class="item-close">&times;</span>
 													</div>
@@ -119,13 +109,11 @@
 												<div class="media">
 													<div class="media-left">
 														<a href="product-detail.html">
-															<img alt="/" class="media-object"
-																src="assets/images/shop/pic3.jpg">
+															<img alt="/" class="media-object" src="assets/images/shop/pic3.jpg">
 														</a>
 													</div>
 													<div class="media-body">
-														<h6 class="dz-title"><a href="product-detail.html"
-																class="media-heading">Cheese Burger</a></h6>
+														<h6 class="dz-title"><a href="product-detail.html" class="media-heading">Cheese Burger</a></h6>
 														<span class="dz-price">$20.00</span>
 														<span class="item-close">&times;</span>
 													</div>
@@ -135,13 +123,11 @@
 												<div class="media">
 													<div class="media-left">
 														<a href="product-detail.html">
-															<img alt="/" class="media-object"
-																src="assets/images/shop/pic4.jpg">
+															<img alt="/" class="media-object" src="assets/images/shop/pic4.jpg">
 														</a>
 													</div>
 													<div class="media-body">
-														<h6 class="dz-title"><a href="product-detail.html"
-																class="media-heading">Burger</a></h6>
+														<h6 class="dz-title"><a href="product-detail.html" class="media-heading">Burger</a></h6>
 														<span class="dz-price">$15.00</span>
 														<span class="item-close">&times;</span>
 													</div>
@@ -152,10 +138,8 @@
 												<h6 class="text-primary mb-0">$63</h6>
 											</li>
 											<li class="text-center d-flex">
-												<a href="shop-cart.html"
-													class="btn btn-primary me-2 w-100 d-block btn-hover-1"><span>Giỏ hàng</span></a>
-												<a href="our-menu-1.html"
-													class="btn btn-outline-primary w-100 d-block btn-hover-1"><span>Thực đơn</span></a>
+												<a href="shop-cart.html" class="btn btn-primary me-2 w-100 d-block btn-hover-1"><span>Giỏ hàng</span></a>
+												<a href="our-menu-1.html" class="btn btn-outline-primary w-100 d-block btn-hover-1"><span>Thực đơn</span></a>
 											</li>
 										</ul>
 									</li>
@@ -193,14 +177,13 @@
 								</li> -->
 								<li class="sub-menu-down"><a href="javascript:void(0);">Danh mục</a>
 									<ul class="sub-menu">
-										<li><a href="#">COLD DRINK</a></li>
-										<li><a href="#">PIZZA</a></li>
-										<li><a href="#">SALAD</a></li>
-										<li><a href="#">SWEEST</a></li>
-										<li><a href="#">SPICY</a></li>
-										<li><a href="#">BURGER</a></li>
-
-
+										<?php
+										foreach ($dsdm as $dm){
+										extract($dm);
+										$linkdm="index.php?act=sanpham&iddm=".$id;
+										echo '<li><a href="#">'.$name.'</a></li>';
+										}
+										?>
 									</ul>
 								</li>
 								<li class="sub-menu-down"><a href="javascript:void(0);">Sản phẩm</a>
@@ -253,17 +236,14 @@
 										</li>
 									</ul>
 								</li>
-								<li><a href="contact-us.html">Liên hệ chúng tôi</a></li>
+								<li><a href="">Liên hệ chúng tôi</a></li>
 							</ul>
 							<div class="dz-social-icon">
 								<ul>
-									<li><a target="_blank" class="fab fa-facebook-f"
-											href="https://www.facebook.com/"></a></li>
+									<li><a target="_blank" class="fab fa-facebook-f" href="https://www.facebook.com/"></a></li>
 									<li><a target="_blank" class="fab fa-twitter" href="https://twitter.com/"></a></li>
-									<li><a target="_blank" class="fab fa-linkedin-in"
-											href="https://www.linkedin.com/"></a></li>
-									<li><a target="_blank" class="fab fa-instagram"
-											href="https://www.instagram.com/"></a></li>
+									<li><a target="_blank" class="fab fa-linkedin-in" href="https://www.linkedin.com/"></a></li>
+									<li><a target="_blank" class="fab fa-instagram" href="https://www.instagram.com/"></a></li>
 								</ul>
 							</div>
 						</div>

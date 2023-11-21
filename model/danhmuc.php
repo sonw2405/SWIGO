@@ -32,8 +32,4 @@ function update_danhmuc($id, $tenloai)
     pdo_execute($sql);
 }
 
-
-
-
-
 ?>

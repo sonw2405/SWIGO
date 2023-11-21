@@ -7,18 +7,16 @@
     if (isset($sanpham) && is_array($sanpham)) {
         extract($sanpham);
     }
-
     $hinhPath = "../upload/" . $img;
     if (is_file($hinhPath)) {
         $hinh = '<img src="' . $hinhPath . '" height="80px">';
     } else {
         $hinh = "Không có hình";
     }
-
     ?>
     <div class="con1">
         <div class="h1">
-            <h1>UPDATE SẢN PHẨM</h1>
+            <h2>CẬP NHẬT SẢN PHẨM</h2>
         </div>
         <form action="index.php?act=updatesp" method="POST" enctype="multipart/form-data">
             <input type="hidden" name="id" value="<?= $id ?>">

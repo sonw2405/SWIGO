@@ -205,7 +205,27 @@ body {
   margin-left: 1px;
 
 }
-
-
-
+.thongbaodm{
+  margin-left: -70px;
+  color: #ee2737;
+}
+.thongbao{
+  color: red;
+}
+.input-group1 select {
+ 
+ width: 150px;
+ height: 30px;
+ background-color: white;
+ border: 2px solid black;
+}
+.bieudo{
+  margin-left: 100px;
+  top: 100px;
+}
+.col-123{
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 20px;
+}
 

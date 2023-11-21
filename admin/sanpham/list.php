@@ -8,7 +8,26 @@
         <div class="sanpham">
         <h1>Danh sách sản phẩm</h1>
         </div>
-        <form action="index.php?act=listdm" method="POST">
+        <form action="index.php?act=listsp" method="post">
+                <div class="input-group1">
+                    <input type="search" class="form-control rounded" name="tukhoa" placeholder="Nhập từ khóa"
+                        aria-label="Search" aria-describedby="search-addon" />
+                    <select name="iddm" class="form-select " aria-label="Default select example">
+                        <option value="0" selected>Tất cả</option>
+                        <?php
+                        foreach ($listdanhmuc as $danhmuc):
+                            extract($danhmuc);
+                            ?>
+                            <option value="<?= $id ?>">
+                                <?= $name ?>
+                            </option>
+                        <?php endforeach ?>
+                        ?>
+                    </select>
+                    <input type="submit" name="listok" class="btn btn-outline-primary" value="Tìm kiếm">
+                </div>
+            </form>
+        <form action="index.php?act=listsp" method="POST">
             <table>
                 <thead>
                     <tr>
